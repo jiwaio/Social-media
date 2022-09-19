@@ -1,16 +1,15 @@
 <template>
-  <div id="app">
-    <router-view/>
+  <div class="my-container">
+    我的
   </div>
 </template>
 
 <script>
 export default {
-  name:'App',
-
+  name: "index"
 }
 </script>
 
-<style>
+<style scoped>
 
 </style>
